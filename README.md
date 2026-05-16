@@ -1,4 +1,4 @@
-# Dragon Hatchling
+# BDH (Dragon Hatchling)
 
 ## **Bridging the Gap Between Transformers and the Brain**
 
